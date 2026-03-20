@@ -1,4 +1,4 @@
-## Naz — Commercial operator who builds with AI
+## Naz — Commercial operator who builds with AI 
 
 CCO and co-founder of AnthroTek (Cambridge). I use AI-assisted 
 development tools to build the systems my company actually runs on 
